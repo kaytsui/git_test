@@ -1,0 +1,1 @@
+This is Kendrake's first git project!
